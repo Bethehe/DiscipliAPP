@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.discipli.app",
+  "appName": "Discipli APP",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
